@@ -49,6 +49,8 @@ Electronic components are available in different packages, such as through-hole 
 <img width="1031" height="938" alt="image" src="https://github.com/user-attachments/assets/e117ff51-b366-4cf9-84d9-c17f71150f7f" />
 
 
+
 # RESULT:
+
 Thus, the basic electronic components such as resistor, capacitor, diode, transistor, and inductor were studied and their functions and specifications were understood.
 
